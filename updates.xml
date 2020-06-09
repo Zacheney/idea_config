@@ -11,7 +11,8 @@
     <knownExternalComponentSources>
       <item value="Android SDK" />
     </knownExternalComponentSources>
-    <option name="LAST_BUILD_CHECKED" value="IU-201.7846.76" />
-    <option name="LAST_TIME_CHECKED" value="1591714613724" />
+    <option name="LAST_BUILD_CHECKED" value="IU-193.5233.102" />
+    <option name="LAST_TIME_CHECKED" value="1591716640515" />
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
   </component>
 </application>
