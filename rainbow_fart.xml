@@ -1,0 +1,7 @@
+<application>
+  <component name="FartSettings">
+    <option name="ttsSettings">
+      <TTSSettings />
+    </option>
+  </component>
+</application>
