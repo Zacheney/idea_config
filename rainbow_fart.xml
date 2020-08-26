@@ -1,5 +1,7 @@
 <application>
   <component name="FartSettings">
-    <option name="version" value="5.35" />
+    <option name="ttsSettings">
+      <TTSSettings />
+    </option>
   </component>
 </application>
