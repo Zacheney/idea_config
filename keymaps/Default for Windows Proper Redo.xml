@@ -5,11 +5,6 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
-  <action id="FixDocComment">
-    <keyboard-shortcut first-keystroke="shift alt j" />
-  </action>
-  <action id="TableResult.UnselectPreviousOccurrence" />
-  <action id="UnselectPreviousOccurrence" />
   <action id="UpdateRunningApplication" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
