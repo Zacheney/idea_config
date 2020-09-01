@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="List" />
+      <item value="code" />
       <item value="Recovery" />
     </histories>
     <option name="languageScores">
