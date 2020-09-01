@@ -1,6 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="试制计划已发布，不可维护&quot;需求时间&quot;、&quot;试制计划开始时间&quot;、&quot;试制计划结束时间&quot;" />
+      <item value="试制计划初始化后，不可维护&quot;配置车型&quot;、&quot;配置选项&quot;、&quot;试制工厂&quot;" />
+      <item value="&quot;试制类型&quot;、&quot;试制计划编码&quot;、&quot;工程车型&quot;，保存后不可修改" />
+      <item value="非整车类型不可维护&quot;配置车型&quot;、&quot;配置选项&quot;" />
+      <item value="权限不足，无选中数据应用工程师分组权限" />
+      <item value="权限不足，不可操作其它应用工程师数据" />
+      <item value="试制状态为&quot;作废&quot;、&quot;归档&quot;，不可修改" />
+      <item value="零件号：{0}不能维护自己为维修包号" />
+      <item value="行，定义合件需要维护合件分组编码" />
+      <item value="当前操作人和售后工程师不匹配！" />
+      <item value="请先选择销售策略和配置表版本" />
+      <item value="行数据中建议来源必须Child/DB" />
+      <item value="状态非“初始化”，不能删除" />
+      <item value="请至少选择一条数据数据" />
+      <item value="试制计划编码不能为空" />
+      <item value="行建议来源属性不能为空" />
+      <item value="行顺序号属性不能为空" />
+      <item value="未保存数据不可以选择" />
+      <item value="请选择要复制的数据" />
+      <item value="请选择要删除的数据" />
+      <item value="试制计划编码选择器" />
+      <item value="行用量属性不能为空" />
+      <item value="根节点不可以选择" />
       <item value="制造变更发布日期" />
       <item value="零部件试制状态" />
       <item value="维修包清单列表" />
@@ -28,32 +51,11 @@
       <item value="SWO变更单号" />
       <item value="SWO发布日期" />
       <item value="维修包视图" />
-      <item value="维修包名称" />
-      <item value="维修包列表" />
-      <item value="无权限同步" />
-      <item value="工艺合件号" />
-      <item value="委外合件号" />
-      <item value="修改中……" />
-      <item value="销售策略" />
-      <item value="维修包号" />
-      <item value="更新成功" />
-      <item value="合件" />
-      <item value="是否合件" />
-      <item value="整车编码" />
-      <item value="基础车型" />
-      <item value="BOM比较" />
-      <item value="更改人" />
-      <item value="线体" />
-      <item value="xtype" />
-      <item value="mstdata part Weight Info" />
-      <item value="function" />
-      <item value="filedelet" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="69" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
