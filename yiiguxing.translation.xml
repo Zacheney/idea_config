@@ -1,6 +1,46 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="是否合件" />
+      <item value="整车编码" />
+      <item value="指定日期" />
+      <item value="当前重量" />
+      <item value="实称重量" />
+      <item value="变更状态" />
+      <item value="变更标识" />
+      <item value="发放时间" />
+      <item value="FSWO编号" />
+      <item value="FSWO状态" />
+      <item value="CCO 编码" />
+      <item value="发送SAP" />
+      <item value="发送EWO" />
+      <item value="关联TWO" />
+      <item value="关联MWO" />
+      <item value="TWO编号" />
+      <item value="TWO状态" />
+      <item value="SWO编号" />
+      <item value="SWO状态" />
+      <item value="MWO编号" />
+      <item value="MWO状态" />
+      <item value="EWO单号" />
+      <item value="CWO编码" />
+      <item value="预留位" />
+      <item value="本色件" />
+      <item value="更改人" />
+      <item value="VC编号" />
+      <item value="VC状态" />
+      <item value="选装" />
+      <item value="当前用户没有组织机构，请联系系统管理员" />
+      <item value="请选择变更类型为“新车型发布”的变更单" />
+      <item value="草稿" />
+      <item value="number" />
+      <item value="编号" />
+      <item value="有效" />
+      <item value="latest" />
+      <item value="最新" />
+      <item value="替换" />
+      <item value="全部" />
+      <item value="产品" />
       <item value="试制计划已发布，不可维护&quot;需求时间&quot;、&quot;试制计划开始时间&quot;、&quot;试制计划结束时间&quot;" />
       <item value="试制计划初始化后，不可维护&quot;配置车型&quot;、&quot;配置选项&quot;、&quot;试制工厂&quot;" />
       <item value="&quot;试制类型&quot;、&quot;试制计划编码&quot;、&quot;工程车型&quot;，保存后不可修改" />
@@ -11,51 +51,11 @@
       <item value="零件号：{0}不能维护自己为维修包号" />
       <item value="行，定义合件需要维护合件分组编码" />
       <item value="当前操作人和售后工程师不匹配！" />
-      <item value="请先选择销售策略和配置表版本" />
-      <item value="行数据中建议来源必须Child/DB" />
-      <item value="状态非“初始化”，不能删除" />
-      <item value="请至少选择一条数据数据" />
-      <item value="试制计划编码不能为空" />
-      <item value="行建议来源属性不能为空" />
-      <item value="行顺序号属性不能为空" />
-      <item value="未保存数据不可以选择" />
-      <item value="请选择要复制的数据" />
-      <item value="请选择要删除的数据" />
-      <item value="试制计划编码选择器" />
-      <item value="行用量属性不能为空" />
-      <item value="根节点不可以选择" />
-      <item value="制造变更发布日期" />
-      <item value="零部件试制状态" />
-      <item value="维修包清单列表" />
-      <item value="维修包号选择器" />
-      <item value="整车编码选择器" />
-      <item value="售后维修包视图" />
-      <item value="售后工程师姓名" />
-      <item value="延长时间的TWO" />
-      <item value="试制计划选择" />
-      <item value="维护实际日期" />
-      <item value="生成整车编码" />
-      <item value="物料号选择器" />
-      <item value="样件到件时间" />
-      <item value="制造生效日期" />
-      <item value="制造失效日期" />
-      <item value="制造变更单号" />
-      <item value="其它工位维护" />
-      <item value="仅显示颜色件" />
-      <item value="天上" />
-      <item value="天" />
-      <item value="天气" />
-      <item value="MBOM合件视图" />
-      <item value="SWO生效日期" />
-      <item value="SWO失效日期" />
-      <item value="SWO变更单号" />
-      <item value="SWO发布日期" />
-      <item value="维修包视图" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="69" />
+        <entry key="CHINESE" value="112" />
+        <entry key="ENGLISH" value="112" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
