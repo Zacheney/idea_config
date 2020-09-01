@@ -1,6 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="请选择数据" />
+      <item value="生效日期起" />
+      <item value="生效日期止" />
+      <item value="控制器标识" />
+      <item value="工艺合件号" />
+      <item value="委外合件号" />
+      <item value="售后工程师" />
+      <item value="变更单状态" />
+      <item value="创建人邮箱" />
+      <item value="最新+有效" />
+      <item value="TWO选择器" />
+      <item value="CWO提出人" />
+      <item value="颜色代码" />
+      <item value="配置决议" />
+      <item value="设计重量" />
+      <item value="维修类型" />
+      <item value="维修包号" />
+      <item value="策略编码" />
+      <item value="策略名称" />
+      <item value="特征清单" />
+      <item value="版本查询" />
+      <item value="显示删除" />
       <item value="是否合件" />
       <item value="整车编码" />
       <item value="指定日期" />
@@ -29,33 +51,11 @@
       <item value="更改人" />
       <item value="VC编号" />
       <item value="VC状态" />
-      <item value="选装" />
-      <item value="当前用户没有组织机构，请联系系统管理员" />
-      <item value="请选择变更类型为“新车型发布”的变更单" />
-      <item value="草稿" />
-      <item value="number" />
-      <item value="编号" />
-      <item value="有效" />
-      <item value="latest" />
-      <item value="最新" />
-      <item value="替换" />
-      <item value="全部" />
-      <item value="产品" />
-      <item value="试制计划已发布，不可维护&quot;需求时间&quot;、&quot;试制计划开始时间&quot;、&quot;试制计划结束时间&quot;" />
-      <item value="试制计划初始化后，不可维护&quot;配置车型&quot;、&quot;配置选项&quot;、&quot;试制工厂&quot;" />
-      <item value="&quot;试制类型&quot;、&quot;试制计划编码&quot;、&quot;工程车型&quot;，保存后不可修改" />
-      <item value="非整车类型不可维护&quot;配置车型&quot;、&quot;配置选项&quot;" />
-      <item value="权限不足，无选中数据应用工程师分组权限" />
-      <item value="权限不足，不可操作其它应用工程师数据" />
-      <item value="试制状态为&quot;作废&quot;、&quot;归档&quot;，不可修改" />
-      <item value="零件号：{0}不能维护自己为维修包号" />
-      <item value="行，定义合件需要维护合件分组编码" />
-      <item value="当前操作人和售后工程师不匹配！" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="112" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="136" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
