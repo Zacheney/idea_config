@@ -1,63 +1,66 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="请选择数据" />
-      <item value="生效日期起" />
-      <item value="生效日期止" />
-      <item value="控制器标识" />
-      <item value="工艺合件号" />
-      <item value="委外合件号" />
-      <item value="售后工程师" />
-      <item value="变更单状态" />
-      <item value="创建人邮箱" />
-      <item value="最新+有效" />
-      <item value="TWO选择器" />
-      <item value="CWO提出人" />
-      <item value="颜色代码" />
-      <item value="配置决议" />
-      <item value="设计重量" />
-      <item value="维修类型" />
-      <item value="维修包号" />
-      <item value="策略编码" />
-      <item value="策略名称" />
-      <item value="特征清单" />
-      <item value="版本查询" />
-      <item value="显示删除" />
-      <item value="是否合件" />
+      <item value="预估成本" />
+      <item value="预估重量" />
+      <item value="Estimated" />
+      <item value="Color" />
+      <item value="Copy" />
+      <item value="失效成功" />
+      <item value="导入中" />
+      <item value="生成中..." />
+      <item value="查询中..." />
+      <item value="销售策略" />
+      <item value="释放状态" />
+      <item value="是否保留" />
       <item value="整车编码" />
-      <item value="指定日期" />
-      <item value="当前重量" />
-      <item value="实称重量" />
-      <item value="变更状态" />
+      <item value="工厂编码" />
+      <item value="基础车型" />
       <item value="变更标识" />
-      <item value="发放时间" />
-      <item value="FSWO编号" />
-      <item value="FSWO状态" />
-      <item value="CCO 编码" />
-      <item value="发送SAP" />
-      <item value="发送EWO" />
-      <item value="关联TWO" />
-      <item value="关联MWO" />
-      <item value="TWO编号" />
-      <item value="TWO状态" />
-      <item value="SWO编号" />
-      <item value="SWO状态" />
-      <item value="MWO编号" />
-      <item value="MWO状态" />
-      <item value="EWO单号" />
-      <item value="CWO编码" />
+      <item value="参考创建" />
+      <item value="SWO单号" />
       <item value="预留位" />
-      <item value="本色件" />
-      <item value="更改人" />
-      <item value="VC编号" />
-      <item value="VC状态" />
+      <item value="车型年" />
+      <item value="选装" />
+      <item value="简码" />
+      <item value="用量" />
+      <item value="创建" />
+      <item value="内饰" />
+      <item value="加载中……" />
+      <item value="用户类型" />
+      <item value="选装包至少需要包含1个选装项" />
+      <item value="只能选择可构建BOM层级数据" />
+      <item value="基础车型或状态不可为空！" />
+      <item value="只能选择可配置层级数据" />
+      <item value="选装分类/包英文名称" />
+      <item value="销售配置组合" />
+      <item value="选择销售车型" />
+      <item value="选择工程车型" />
+      <item value="试算排列组合" />
+      <item value="销售车型" />
+      <item value="销售公司" />
+      <item value="选装编码" />
+      <item value="选装名称" />
+      <item value="流水号" />
+      <item value="当前用户没有组织机构，请联系系统管理员" />
+      <item value="[新增、替换]类型子零件号不可为空!" />
+      <item value="零件号：{0}不能维护自己为合件号" />
+      <item value="当前操作人和售后工程师不匹配！" />
+      <item value="请选择状态为“关闭”的变更单" />
+      <item value="合件用量只能用数字和逗号隔开" />
+      <item value="整车编码释放单：{0}审批流程" />
+      <item value="[新增]类型父零件号不可为空!" />
+      <item value="已发送过SAP,不能再次发送" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="136" />
-        <entry key="ENGLISH" value="136" />
+        <entry key="CHINESE" value="223" />
+        <entry key="ENGLISH" value="222" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
+  </component>
+  <component name="Settings">
+    <option name="ignoreRegExp" value="" />
   </component>
 </application>
