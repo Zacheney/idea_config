@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="structure" />
       <item value="revert" />
       <item value="snippets" />
       <item value="breckets" />
