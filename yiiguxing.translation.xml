@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="详细" />
+      <item value="详细信息" />
       <item value="epoll" />
       <item value="epoch" />
       <item value="structure" />
@@ -27,7 +29,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="231" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="ENGLISH" value="232" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
