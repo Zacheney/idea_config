@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="验证信息" />
+      <item value="特殊说明" />
+      <item value="是否需要被替换" />
+      <item value="阶段" />
+      <item value="影响车间" />
+      <item value="无成本说明" />
+      <item value="预计成本" />
+      <item value="是否引进CAB" />
+      <item value="是否长期措施" />
+      <item value="更改描述" />
+      <item value="占位" />
+      <item value="持续时间" />
       <item value="详细" />
       <item value="详细信息" />
       <item value="epoll" />
