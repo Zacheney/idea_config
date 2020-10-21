@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="备注信息" />
+      <item value="颜色件备注" />
+      <item value="维护备注" />
       <item value="是否已过CAB" />
       <item value="销售车型" />
       <item value="实施时间" />
@@ -48,9 +51,6 @@
       <item value="revert" />
       <item value="snippets" />
       <item value="breckets" />
-      <item value="upload" />
-      <item value="Lastest" />
-      <item value="Latest" />
     </histories>
     <option name="languageScores">
       <map>
