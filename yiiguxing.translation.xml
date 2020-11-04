@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="百香果" />
       <item value="TermMeasures" />
       <item value="LongTermMeasures" />
       <item value="备注信息" />
@@ -50,12 +51,11 @@
       <item value="epoll" />
       <item value="epoch" />
       <item value="structure" />
-      <item value="revert" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="ENGLISH" value="235" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
