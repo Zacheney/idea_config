@@ -1,7 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="百香" />
       <item value="百香果" />
+      <item value="四" />
+      <item value="four" />
+      <item value="4" />
       <item value="TermMeasures" />
       <item value="LongTermMeasures" />
       <item value="备注信息" />
@@ -47,15 +51,11 @@
       <item value="占位" />
       <item value="持续时间" />
       <item value="详细" />
-      <item value="详细信息" />
-      <item value="epoll" />
-      <item value="epoch" />
-      <item value="structure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="234" />
-        <entry key="ENGLISH" value="235" />
+        <entry key="CHINESE" value="235" />
+        <entry key="ENGLISH" value="237" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
@@ -67,6 +67,5 @@
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
-    <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
