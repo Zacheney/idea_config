@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="延长" />
       <item value="holder" />
       <item value="Scrapy" />
       <item value="Scrap" />
@@ -37,7 +38,6 @@
       <item value="一致" />
       <item value="复制创建" />
       <item value="时间延长" />
-      <item value="延长" />
       <item value="无成本" />
       <item value="单件成本" />
       <item value="全部成本" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="237" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="ENGLISH" value="238" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
