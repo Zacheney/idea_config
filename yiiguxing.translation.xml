@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="life Cycle State" />
       <item value="btn'," />
       <item value="延长" />
       <item value="holder" />
@@ -50,12 +51,11 @@
       <item value="影响车间" />
       <item value="无成本说明" />
       <item value="是否引进CAB" />
-      <item value="是否长期措施" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="238" />
-        <entry key="ENGLISH" value="238" />
+        <entry key="ENGLISH" value="239" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
