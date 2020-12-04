@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="archive" />
       <item value="absent" />
       <item value="Metrics" />
       <item value="life Cycle State" />
@@ -50,7 +51,6 @@
       <item value="特殊说明" />
       <item value="是否需要被替换" />
       <item value="阶段" />
-      <item value="影响车间" />
     </histories>
     <option name="languageScores">
       <map>
