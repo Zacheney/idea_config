@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="evict" />
       <item value="dock pinned" />
       <item value="dock" />
       <item value="indent" />
@@ -50,7 +51,6 @@
       <item value="无成本" />
       <item value="单件成本" />
       <item value="全部成本" />
-      <item value="预计成本" />
     </histories>
     <option name="languageScores">
       <map>
