@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="成员变量" />
       <item value="原子" />
       <item value="一般" />
       <item value="常规" />
@@ -50,7 +51,6 @@
       <item value="cao" />
       <item value="cn" />
       <item value="执行器" />
-      <item value="actuator" />
     </histories>
     <option name="languageScores">
       <map>
