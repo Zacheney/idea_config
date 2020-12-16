@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="italic" />
+      <item value="vivid" />
       <item value="成员变量" />
       <item value="原子" />
       <item value="一般" />
@@ -49,12 +51,10 @@
       <item value="zhubajie" />
       <item value="zhu" />
       <item value="cao" />
-      <item value="cn" />
-      <item value="执行器" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="240" />
+        <entry key="CHINESE" value="241" />
         <entry key="ENGLISH" value="241" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
