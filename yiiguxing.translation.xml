@@ -1,11 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="原子" />
       <item value="coral" />
       <item value="italic" />
       <item value="vivid" />
       <item value="成员变量" />
-      <item value="原子" />
       <item value="一般" />
       <item value="常规" />
       <item value="since" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="241" />
+        <entry key="ENGLISH" value="242" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
