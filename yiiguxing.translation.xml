@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="declares" />
       <item value="原子" />
       <item value="coral" />
       <item value="italic" />
@@ -50,12 +51,11 @@
       <item value="xixinxiangran" />
       <item value="xixinxingran" />
       <item value="zhubajie" />
-      <item value="zhu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="241" />
-        <entry key="ENGLISH" value="242" />
+        <entry key="CHINESE" value="242" />
+        <entry key="ENGLISH" value="243" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
