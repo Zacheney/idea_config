@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="issue" />
       <item value="endpoints" />
       <item value="Advice" />
       <item value="declares" />
@@ -50,7 +51,6 @@
       <item value="xinxinxiangrong" />
       <item value="xinxinxiangron" />
       <item value="xinxinxiangran" />
-      <item value="xixinxiangran" />
     </histories>
     <option name="languageScores">
       <map>
