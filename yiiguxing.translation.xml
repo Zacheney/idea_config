@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="manifest" />
       <item value="Promise" />
       <item value="Annotation Processing" />
       <item value="sunset harbor" />
@@ -50,7 +51,6 @@
       <item value="维护备注" />
       <item value="是否已过CAB" />
       <item value="销售车型" />
-      <item value="实施时间" />
     </histories>
     <option name="languageScores">
       <map>
