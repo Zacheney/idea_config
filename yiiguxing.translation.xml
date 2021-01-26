@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="唯一识别码" />
+      <item value="配置差异" />
+      <item value="配置差异零件" />
+      <item value="差异" />
+      <item value="零件差异" />
       <item value="识别码" />
       <item value="金额" />
       <item value="单价" />
@@ -46,11 +51,6 @@
       <item value="百香" />
       <item value="百香果" />
       <item value="四" />
-      <item value="four" />
-      <item value="4" />
-      <item value="TermMeasures" />
-      <item value="LongTermMeasures" />
-      <item value="备注信息" />
     </histories>
     <option name="languageScores">
       <map>
