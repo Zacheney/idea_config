@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="验证是否存在" />
       <item value="唯一识别码" />
       <item value="配置差异" />
       <item value="配置差异零件" />
@@ -50,7 +51,6 @@
       <item value="Scrap" />
       <item value="百香" />
       <item value="百香果" />
-      <item value="四" />
     </histories>
     <option name="languageScores">
       <map>
