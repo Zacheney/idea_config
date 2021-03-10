@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="委托加工视图" />
       <item value="reduce" />
       <item value="分组" />
       <item value="验证是否存在" />
@@ -50,12 +51,11 @@
       <item value="延长" />
       <item value="holder" />
       <item value="Scrapy" />
-      <item value="Scrap" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="244" />
-        <entry key="ENGLISH" value="244" />
+        <entry key="ENGLISH" value="245" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
