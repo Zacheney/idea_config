@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="初始化" />
+      <item value="init" />
+      <item value="inited" />
       <item value="extract " />
       <item value="页面来源" />
       <item value="长周期" />
@@ -48,14 +51,11 @@
       <item value="since" />
       <item value="info" />
       <item value="custom" />
-      <item value="usage" />
-      <item value="evict" />
-      <item value="dock pinned" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="247" />
-        <entry key="ENGLISH" value="247" />
+        <entry key="ENGLISH" value="248" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
