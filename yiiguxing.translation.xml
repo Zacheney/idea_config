@@ -1,12 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="配色" />
+      <item value="配色信息" />
       <item value="同步" />
       <item value="配色个性" />
       <item value="配色个性库" />
       <item value="配色自定义" />
       <item value="配色个性化" />
-      <item value="配色" />
       <item value="初始化" />
       <item value="init" />
       <item value="inited" />
@@ -50,7 +51,6 @@
       <item value="原子" />
       <item value="coral" />
       <item value="italic" />
-      <item value="vivid" />
     </histories>
     <option name="languageScores">
       <map>
