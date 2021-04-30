@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="administror" />
+      <item value="administr" />
       <item value="同步" />
       <item value="配色" />
       <item value="配色信息" />
@@ -49,12 +51,10 @@
       <item value="Advice" />
       <item value="declares" />
       <item value="原子" />
-      <item value="coral" />
-      <item value="italic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="247" />
+        <entry key="CHINESE" value="248" />
         <entry key="ENGLISH" value="248" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
