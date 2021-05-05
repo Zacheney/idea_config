@@ -1,66 +1,72 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="销售车型" />
-      <item value="实施时间" />
-      <item value="提出时间" />
-      <item value="方案影响描述" />
-      <item value="wobuzhidaonizaixiangshenmehaishinatiaodidian" />
-      <item value="jiuxiangshishiqushenjing" />
-      <item value="nizaiganshenme" />
-      <item value="xinxinxiangrong" />
-      <item value="xinxinxiangron" />
-      <item value="xinxinxiangran" />
-      <item value="xixinxiangran" />
-      <item value="xixinxingran" />
-      <item value="zhubajie" />
-      <item value="zhu" />
-      <item value="cao" />
-      <item value="cn" />
-      <item value="执行器" />
-      <item value="actuator" />
-      <item value="散件" />
-      <item value="一致" />
-      <item value="复制创建" />
-      <item value="时间延长" />
-      <item value="延长" />
-      <item value="无成本" />
-      <item value="单件成本" />
-      <item value="全部成本" />
-      <item value="预计成本" />
-      <item value="验证信息" />
-      <item value="特殊说明" />
-      <item value="是否需要被替换" />
-      <item value="阶段" />
-      <item value="影响车间" />
-      <item value="无成本说明" />
-      <item value="是否引进CAB" />
-      <item value="是否长期措施" />
-      <item value="更改描述" />
-      <item value="占位" />
-      <item value="持续时间" />
-      <item value="详细" />
-      <item value="详细信息" />
-      <item value="epoll" />
-      <item value="epoch" />
-      <item value="structure" />
-      <item value="revert" />
-      <item value="snippets" />
-      <item value="breckets" />
-      <item value="upload" />
-      <item value="Lastest" />
-      <item value="Latest" />
-      <item value="关闭" />
+      <item value="同步" />
+      <item value="配色" />
+      <item value="配色信息" />
+      <item value="配色个性" />
+      <item value="配色个性库" />
+      <item value="配色自定义" />
+      <item value="配色个性化" />
+      <item value="初始化" />
+      <item value="init" />
+      <item value="inited" />
+      <item value="extract " />
+      <item value="页面来源" />
+      <item value="长周期" />
+      <item value="底部" />
+      <item value="hintcolor" />
+      <item value="Duplicate" />
+      <item value="lenovo" />
+      <item value="dbeaver" />
+      <item value="dbevar" />
+      <item value="dbever" />
+      <item value="通用" />
+      <item value="委托加工视图" />
+      <item value="reduce" />
+      <item value="分组" />
+      <item value="验证是否存在" />
+      <item value="唯一识别码" />
+      <item value="配置差异" />
+      <item value="配置差异零件" />
+      <item value="差异" />
+      <item value="零件差异" />
+      <item value="识别码" />
+      <item value="金额" />
+      <item value="单价" />
+      <item value="Pipeline" />
+      <item value="manifest" />
+      <item value="Promise" />
+      <item value="Annotation Processing" />
+      <item value="sunset harbor" />
+      <item value="mass transit" />
+      <item value="mass tr" />
+      <item value="mass" />
+      <item value="negative" />
+      <item value="hazard" />
+      <item value="issue" />
+      <item value="endpoints" />
+      <item value="Advice" />
+      <item value="declares" />
+      <item value="原子" />
+      <item value="coral" />
+      <item value="italic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="247" />
+        <entry key="ENGLISH" value="248" />
+        <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20201104000608061" />
+      </app-key>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
