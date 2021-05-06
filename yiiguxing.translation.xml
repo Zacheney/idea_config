@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="已确认" />
+      <item value="待确认" />
       <item value="draggable" />
       <item value="administror" />
       <item value="administr" />
@@ -49,13 +51,11 @@
       <item value="hazard" />
       <item value="issue" />
       <item value="endpoints" />
-      <item value="Advice" />
-      <item value="declares" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="248" />
-        <entry key="ENGLISH" value="248" />
+        <entry key="ENGLISH" value="249" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
