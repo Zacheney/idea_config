@@ -1,8 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="已确认" />
       <item value="待确认" />
+      <item value="已确认" />
       <item value="draggable" />
       <item value="administror" />
       <item value="administr" />
