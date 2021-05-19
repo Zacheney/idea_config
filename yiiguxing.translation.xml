@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="差异" />
       <item value="待确认" />
       <item value="已确认" />
       <item value="draggable" />
@@ -34,7 +35,6 @@
       <item value="唯一识别码" />
       <item value="配置差异" />
       <item value="配置差异零件" />
-      <item value="差异" />
       <item value="零件差异" />
       <item value="识别码" />
       <item value="金额" />
