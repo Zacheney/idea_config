@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="符合条件" />
+      <item value="符合" />
       <item value="选配关系" />
       <item value="establish" />
       <item value="mute" />
@@ -49,8 +51,6 @@
       <item value="sunset harbor" />
       <item value="mass transit" />
       <item value="mass tr" />
-      <item value="mass" />
-      <item value="negative" />
     </histories>
     <option name="languageScores">
       <map>
