@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="间接" />
+      <item value="直接" />
       <item value="系列" />
       <item value="privacy" />
       <item value="平台车型" />
@@ -49,8 +51,6 @@
       <item value="金额" />
       <item value="单价" />
       <item value="Pipeline" />
-      <item value="manifest" />
-      <item value="Promise" />
     </histories>
     <option name="languageScores">
       <map>
