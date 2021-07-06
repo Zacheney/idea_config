@@ -1,0 +1,13 @@
+<application>
+  <component name="GetterTemplates">
+    <option name="defaultTempalteName" value="zctemplate" />
+    <option name="templates">
+      <list>
+        <TemplateResource>
+          <option name="fileName" value="zctemplate" />
+          <option name="template" value="#set($paramName = $helper.getParamName($field, $project))&#10;#if($field.modifierStatic)&#10;static ##&#10;#end&#10;$field.type ##&#10;#set($name = $StringUtil.capitalizeWithJavaBeanConvention($StringUtil.sanitizeJavaIdentifier($helper.getPropertyName($field, $project))))&#10;#if ($field.name == $paramName)&#10;get##&#10;#else&#10;getIs##&#10;#end&#10;${name}() {&#10;return this.##&#10;$field.name;&#10;}" />
+        </TemplateResource>
+      </list>
+    </option>
+  </component>
+</application>
