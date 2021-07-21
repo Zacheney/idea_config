@@ -22,7 +22,7 @@
     <mask>*Dao.java</mask>
     <mask>*View.js</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
