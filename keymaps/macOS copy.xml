@@ -1,7 +1,7 @@
 <keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
   <action id="EditorSplitLine" />
-  <action id="IntroduceVariable">
-    <keyboard-shortcut first-keystroke="meta alt v" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
 </keymap>
