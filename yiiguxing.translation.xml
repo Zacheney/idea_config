@@ -5,8 +5,8 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="211" />
     <histories>
-      <item value="Strategy" />
       <item value="revert" />
+      <item value="Strategy" />
       <item value="还原" />
       <item value="Initial Request" />
       <item value="调整" />
@@ -59,7 +59,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="271" />
+        <entry key="ENGLISH" value="272" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
