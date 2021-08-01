@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="211" />
     <histories>
+      <item value="Accessors" />
       <item value="revert" />
       <item value="Strategy" />
       <item value="还原" />
@@ -54,19 +55,18 @@
       <item value="验证是否存在" />
       <item value="唯一识别码" />
       <item value="配置差异" />
-      <item value="配置差异零件" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="272" />
+        <entry key="ENGLISH" value="273" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627378162012" />
+    <option name="lastTrimTime" value="1627827509677" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
