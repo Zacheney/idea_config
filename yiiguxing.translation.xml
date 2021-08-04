@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2254" />
     <option name="newTranslationDialogY" value="211" />
     <histories>
+      <item value="tenured" />
       <item value="Accessors" />
       <item value="revert" />
       <item value="Strategy" />
@@ -54,11 +55,10 @@
       <item value="分组" />
       <item value="验证是否存在" />
       <item value="唯一识别码" />
-      <item value="配置差异" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
+        <entry key="CHINESE" value="273" />
         <entry key="ENGLISH" value="273" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
