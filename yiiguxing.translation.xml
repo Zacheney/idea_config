@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="1843" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="前置处理" />
+      <item value="qian'zhi" />
+      <item value="q" />
+      <item value="BeanPostProcessor" />
+      <item value="BeanPostProcess" />
+      <item value="BeanPostPro" />
+      <item value="BeanPost" />
+      <item value="Bean" />
+      <item value="Be" />
+      <item value="post" />
       <item value="Semaphore" />
       <item value="游戏&#10;区服&#10;" />
       <item value="区服&#10;" />
@@ -45,21 +55,11 @@
       <item value="配色信息" />
       <item value="配色个性" />
       <item value="配色个性库" />
-      <item value="配色自定义" />
-      <item value="配色个性化" />
-      <item value="初始化" />
-      <item value="init" />
-      <item value="inited" />
-      <item value="extract " />
-      <item value="页面来源" />
-      <item value="长周期" />
-      <item value="底部" />
-      <item value="hintcolor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="301" />
+        <entry key="CHINESE" value="321" />
+        <entry key="ENGLISH" value="318" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
