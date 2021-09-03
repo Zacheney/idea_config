@@ -5,5 +5,8 @@
         <option value="file:///--list-extensions" />
       </list>
     </option>
+    <option name="frameInfo">
+      <frame x="20" y="45" width="1400" height="761" />
+    </option>
   </component>
 </application>
