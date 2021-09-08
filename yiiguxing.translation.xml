@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="1843" />
     <option name="newTranslationDialogY" value="287" />
     <histories>
+      <item value="SysPrefs" />
       <item value="前置处理" />
       <item value="qian'zhi" />
       <item value="q" />
@@ -54,11 +55,10 @@
       <item value="配色" />
       <item value="配色信息" />
       <item value="配色个性" />
-      <item value="配色个性库" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="321" />
+        <entry key="CHINESE" value="322" />
         <entry key="ENGLISH" value="318" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
