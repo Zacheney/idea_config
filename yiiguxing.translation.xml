@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="249" />
-    <option name="newTranslationDialogX" value="1854" />
-    <option name="newTranslationDialogY" value="238" />
+    <option name="newTranslationDialogX" value="574" />
+    <option name="newTranslationDialogY" value="358" />
     <histories>
+      <item value="坐标&#10;" />
       <item value="是否必带" />
       <item value="是否bi'dai" />
       <item value="是否bi" />
@@ -54,12 +55,11 @@
       <item value="major" />
       <item value="major&#10;" />
       <item value="minior&#10;" />
-      <item value="EXPECTRELEASEDATE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="404" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="412" />
+        <entry key="ENGLISH" value="407" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
