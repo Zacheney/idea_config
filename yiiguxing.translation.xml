@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="1854" />
     <option name="newTranslationDialogY" value="238" />
     <histories>
+      <item value="是否必带" />
+      <item value="是否bi'dai" />
+      <item value="是否bi" />
+      <item value="shi'fou" />
+      <item value="时候b" />
+      <item value="shi" />
+      <item value="MT编号" />
+      <item value="MTbian" />
+      <item value="MT" />
       <item value="inspect&#10;" />
       <item value="完整性" />
       <item value="wang'zheng'xing" />
@@ -46,20 +55,11 @@
       <item value="major&#10;" />
       <item value="minior&#10;" />
       <item value="EXPECTRELEASEDATE" />
-      <item value="tenured" />
-      <item value="Accessors" />
-      <item value="revert" />
-      <item value="Strategy" />
-      <item value="还原" />
-      <item value="Initial Request" />
-      <item value="调整" />
-      <item value="间接" />
-      <item value="直接" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="383" />
+        <entry key="CHINESE" value="404" />
+        <entry key="ENGLISH" value="399" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
