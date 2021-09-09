@@ -2,9 +2,28 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="249" />
-    <option name="newTranslationDialogX" value="1843" />
-    <option name="newTranslationDialogY" value="287" />
+    <option name="newTranslationDialogX" value="1854" />
+    <option name="newTranslationDialogY" value="238" />
     <histories>
+      <item value="inspect&#10;" />
+      <item value="完整性" />
+      <item value="wang'zheng'xing" />
+      <item value="wan'x" />
+      <item value="wan'xing" />
+      <item value="整车模块完整性检查&#10;" />
+      <item value="整车模块完整性jian'cha" />
+      <item value="整车模块完整性" />
+      <item value="整车模块wan'zheng'xing" />
+      <item value="整车模块" />
+      <item value="整车mo'k" />
+      <item value="整车mo" />
+      <item value="整车m" />
+      <item value="整车mu" />
+      <item value="整车" />
+      <item value="zheng'che" />
+      <item value="完整性检查&#10;" />
+      <item value="完整性检查" />
+      <item value="wan" />
       <item value="SysPrefs" />
       <item value="前置处理" />
       <item value="qian'zhi" />
@@ -36,30 +55,11 @@
       <item value="调整" />
       <item value="间接" />
       <item value="直接" />
-      <item value="系列" />
-      <item value="privacy" />
-      <item value="平台车型" />
-      <item value="生效日期" />
-      <item value="符合条件" />
-      <item value="符合" />
-      <item value="选配关系" />
-      <item value="establish" />
-      <item value="mute" />
-      <item value="差异" />
-      <item value="待确认" />
-      <item value="已确认" />
-      <item value="draggable" />
-      <item value="administror" />
-      <item value="administr" />
-      <item value="同步" />
-      <item value="配色" />
-      <item value="配色信息" />
-      <item value="配色个性" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="322" />
-        <entry key="ENGLISH" value="318" />
+        <entry key="CHINESE" value="388" />
+        <entry key="ENGLISH" value="383" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
