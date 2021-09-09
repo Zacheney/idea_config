@@ -3,8 +3,18 @@
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="249" />
     <option name="newTranslationDialogX" value="574" />
-    <option name="newTranslationDialogY" value="358" />
+    <option name="newTranslationDialogY" value="257" />
     <histories>
+      <item value="纵横" />
+      <item value="坐标" />
+      <item value="zong坐标" />
+      <item value="横坐标" />
+      <item value="heng'zuo'biao" />
+      <item value="heng" />
+      <item value="heng'zo'biao" />
+      <item value="路线&#10;" />
+      <item value="起点&#10;" />
+      <item value="起点" />
       <item value="坐标&#10;" />
       <item value="是否必带" />
       <item value="是否bi'dai" />
@@ -45,21 +55,11 @@
       <item value="Bean" />
       <item value="Be" />
       <item value="post" />
-      <item value="Semaphore" />
-      <item value="游戏&#10;区服&#10;" />
-      <item value="区服&#10;" />
-      <item value="qu" />
-      <item value="验证码&#10;" />
-      <item value="NaturalColor" />
-      <item value="m" />
-      <item value="major" />
-      <item value="major&#10;" />
-      <item value="minior&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="412" />
-        <entry key="ENGLISH" value="407" />
+        <entry key="CHINESE" value="456" />
+        <entry key="ENGLISH" value="451" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
       </map>
