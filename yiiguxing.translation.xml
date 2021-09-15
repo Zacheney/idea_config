@@ -2,9 +2,11 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="249" />
-    <option name="newTranslationDialogX" value="574" />
-    <option name="newTranslationDialogY" value="257" />
+    <option name="newTranslationDialogX" value="1725" />
+    <option name="newTranslationDialogY" value="35" />
     <histories>
+      <item value="blame&#10;" />
+      <item value="blame" />
       <item value="enable Hd Menu" />
       <item value="stripe Rows" />
       <item value="enable Column Move" />
@@ -53,12 +55,10 @@
       <item value="zheng'che" />
       <item value="完整性检查&#10;" />
       <item value="完整性检查" />
-      <item value="wan" />
-      <item value="SysPrefs" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="468" />
+        <entry key="CHINESE" value="469" />
         <entry key="ENGLISH" value="465" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />

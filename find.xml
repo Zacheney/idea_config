@@ -18,11 +18,12 @@
     <mask>*.class</mask>
     <mask>*.drl</mask>
     <mask>en.js</mask>
-    <mask>*.sql</mask>
     <mask>*Dao.java</mask>
     <mask>*View.js</mask>
     <mask>*.css</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*excel</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
