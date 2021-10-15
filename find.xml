@@ -26,5 +26,6 @@
     <mask>*.java</mask>
     <mask>*.ignore</mask>
     <mask>*.js</mask>
+    <mask>*Model.js</mask>
   </component>
 </application>
