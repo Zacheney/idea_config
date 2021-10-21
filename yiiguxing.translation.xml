@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="1725" />
     <option name="newTranslationDialogY" value="35" />
     <histories>
+      <item value="protocol" />
+      <item value="pro" />
       <item value="伊莲" />
       <item value="Spring Boot Configuration" />
       <item value="blame&#10;" />
@@ -53,12 +55,10 @@
       <item value="整车mo" />
       <item value="整车m" />
       <item value="整车mu" />
-      <item value="整车" />
-      <item value="zheng'che" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="470" />
+        <entry key="CHINESE" value="471" />
         <entry key="ENGLISH" value="467" />
         <entry key="SWEDISH" value="1" />
         <entry key="TURKISH" value="1" />
